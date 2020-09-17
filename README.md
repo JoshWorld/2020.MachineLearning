@@ -16,6 +16,9 @@
 | 2 | 데이터전처리 1 | [PDF](https://github.com/sejongresearch/2020.MachineLearning/blob/master/LectureNote/2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%20(%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8).pdf), [ipynb](https://github.com/sejongresearch/2020.MachineLearning/blob/master/LectureNote/2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5_%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%20(%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8).ipynb) | 2020.09.11 | [Youtube](https://youtu.be/gVdkxfYQtG0) | |
 | 2 | 데이터전처리 2 |         | 2020.09.11 | [Youtube](https://youtu.be/yqm4AL9y2RU) | |
 | 2 | 데이터전처리 2 오류정정  |        | 2020.09.11 | [Youtube](https://youtu.be/dSD5xTuXwa8) | |
+| 3 | KNN 1  |  [PDF](https://github.com/sejongresearch/2020.MachineLearning/blob/master/LectureNote/3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_KNN%20(%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8).pdf), [ipynb](https://github.com/sejongresearch/2020.MachineLearning/blob/master/Labs/ML%2003%EC%9E%A5_KNN.ipynb)      | 2020.09.18 | [Youtube](https://youtu.be/siYSp7pnHDA) | [과제1](https://www.kaggle.com/c/logistic-classification-diabetes-knn/overview), [과제2](https://www.kaggle.com/c/mlregression-cabbage-price/overview) |
+| 3 | KNN 2  |        | 2020.09.18 | [Youtube](https://youtu.be/OgLTmLUnZbw) | |
+| 3 | KNN 3  |        | 2020.09.18 | [Youtube](https://youtu.be/UAa5oQgSQbg) | |
 
 
 ## 수강신청 QnA
