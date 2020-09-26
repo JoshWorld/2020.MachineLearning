@@ -19,6 +19,10 @@
 | 3 | KNN 1  |  [PDF](https://github.com/sejongresearch/2020.MachineLearning/blob/master/LectureNote/3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_KNN%20(%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8).pdf), [ipynb](https://github.com/sejongresearch/2020.MachineLearning/blob/master/Labs/ML%2003%EC%9E%A5_KNN.ipynb)      | 2020.09.18 | [Youtube](https://youtu.be/siYSp7pnHDA) | [과제1](https://www.kaggle.com/c/logistic-classification-diabetes-knn/overview), [과제2](https://www.kaggle.com/c/mlregression-cabbage-price/overview) |
 | 3 | KNN 2  |        | 2020.09.18 | [Youtube](https://youtu.be/OgLTmLUnZbw) | |
 | 3 | KNN 3  |        | 2020.09.18 | [Youtube](https://youtu.be/UAa5oQgSQbg) | |
+| 4 | Logistic Regression 1 |  [PDF](https://github.com/sejongresearch/2020.MachineLearning/blob/master/LectureNote/4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%85%E1%85%A9%E1%84%8C%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%B5%E1%86%A8%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2%20(%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8).pdf)      | 2020.09.27 | [Youtube](https://youtu.be/uT3hiE7xUtE) |  |
+| 4 | Logistic Regression 2  |        | 2020.09.27 | [Youtube](https://youtu.be/d-vouzSM5xw) | |
+| 4 | Logistic Regression 3  |        | 2020.09.27 | [Youtube](https://youtu.be/F5Zuy2oEZKo) | |
+| 4 | 3주차 Kaggle과제 관련  |        | 2020.09.27 | [Youtube](https://youtu.be/tql_aifgjlA) | |
 
 
 ## 수강신청 QnA
