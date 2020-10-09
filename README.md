@@ -22,7 +22,10 @@
 | 4 | Logistic Regression 1 |  [PDF](https://github.com/sejongresearch/2020.MachineLearning/blob/master/LectureNote/4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%85%E1%85%A9%E1%84%8C%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%B5%E1%86%A8%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2%20(%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8).pdf), [실습1](https://github.com/sejongresearch/2020.MachineLearning/blob/master/Labs/04%E1%84%8C%E1%85%A1%E1%86%BC_Logistic_Regression.ipynb), [실습2](https://github.com/sejongresearch/2020.MachineLearning/blob/master/Labs/04%E1%84%8C%E1%85%A1%E1%86%BC_Logistic_Regression_Regularization.ipynb)       | 2020.09.27 | [Youtube](https://youtu.be/uT3hiE7xUtE)|  |
 | 4 | Logistic Regression 2  |        | 2020.09.27 | [Youtube](https://youtu.be/d-vouzSM5xw) | |
 | 4 | Logistic Regression 3  |        | 2020.09.27 | [Youtube](https://youtu.be/F5Zuy2oEZKo) | |
-| 4 | 3주차 Kaggle과제 관련  |        | 2020.09.27 | [Youtube](https://youtu.be/tql_aifgjlA) | |
+| 4 | 3주차 Kaggle 과제 관련  |        | 2020.09.27 | [Youtube](https://youtu.be/tql_aifgjlA) | |
+| 6 | Discriminant Analysis 1  | [PDF](https://github.com/sejongresearch/2020.MachineLearning/blob/master/LectureNote/6%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%91%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A7%E1%86%AF%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%20(%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8)_%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC.pdf), [실습](https://github.com/sejongresearch/2020.MachineLearning/blob/master/Labs/ML_05%E1%84%8C%E1%85%A1%E1%86%BC_LDA_QDA_IRIS.ipynb)       | 2020.10.09 | [Youtube](https://youtu.be/geIlsP8aPvg) | |
+| 6 | Discriminant Analysis 2  |        | 2020.10.09 | [Youtube](https://youtu.be/WdxIxchlBvo) | |
+| 6 | AI 챌린지신청 과제 관련  |  [두드림 신청](https://do.sejong.ac.kr/ko/program/all/view/1288)      | 2020.10.09 | [Youtube](https://youtu.be/ybQCMoK3HEs) | |
 
 
 ## 수강신청 QnA
