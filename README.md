@@ -26,6 +26,10 @@
 | 6 | Discriminant Analysis 1  | [PDF](https://github.com/sejongresearch/2020.MachineLearning/blob/master/LectureNote/6%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%91%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A7%E1%86%AF%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%20(%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8)_%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC.pdf), [실습](https://github.com/sejongresearch/2020.MachineLearning/blob/master/Labs/ML_05%E1%84%8C%E1%85%A1%E1%86%BC_LDA_QDA_IRIS.ipynb)       | 2020.10.09 | [Youtube](https://youtu.be/geIlsP8aPvg) | |
 | 6 | Discriminant Analysis 2  |        | 2020.10.09 | [Youtube](https://youtu.be/WdxIxchlBvo) | |
 | 6 | AI 챌린지신청 과제 관련  |  [두드림 신청](https://do.sejong.ac.kr/ko/program/all/view/1288)      | 2020.10.09 | [Youtube](https://youtu.be/ybQCMoK3HEs) | 과제 |
+| 7 | Decision Tree 1  | [PDF](https://github.com/sejongresearch/2020.MachineLearning/blob/master/LectureNote/7%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_DecisionTree(%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8)_%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB.pdf)                | 2020.10.16 | [Youtube](https://youtu.be/CC96qKl6etU) | |
+| 7 | Decision Tree 2  |                        | 2020.10.16 | [Youtube](https://youtu.be/19eT1vJFymU) | |
+| 7 | Decision Tree 3  |                        | 2020.10.16 | [Youtube](https://youtu.be/1uGYKJVUdtY) | |
+| 7 | Decision Tree 4  | [PDF](https://github.com/sejongresearch/2020.MachineLearning/blob/master/LectureNote/7%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_DecisionTree(%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8)_%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8.pdf), [실습](https://github.com/sejongresearch/2020.MachineLearning/blob/master/Labs/06%E1%84%8C%E1%85%A1%E1%86%BC_%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%82%E1%85%A1%E1%84%86%E1%85%AE_IRIS.ipynb)       | 2020.10.16 | [Youtube](https://youtu.be/dVAYrDd6P6A) | |
 
 
 ## 수강신청 QnA
