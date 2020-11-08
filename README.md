@@ -36,7 +36,11 @@
 | 9 | 중간고사 해설 1 |   | 2020.10.23 | [Youtube](https://youtu.be/_h5MjquL2OE) | [과제](https://github.com/sejongresearch/2020.MachineLearning/issues/5) |
 | 9 | 중간고사 해설 2 |   | 2020.10.23 | [Youtube](https://youtu.be/wpb4ay0lqUI) | |
 | 9 | 중간고사 해설 3 |   | 2020.10.23 | [Youtube](https://youtu.be/_h5MjquL2OE) | |
-
+| 10 | SVM 1 | [PDF](https://github.com/sejongresearch/2020.MachineLearning/blob/master/LectureNote/10%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_SVM(%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8)_%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB.pdf)  | 2020.11.08 | [Youtube](https://youtu.be/7kvkkjkloKQ) | |
+| 10 | SVM 2 |   | 2020.11.08 | [Youtube](https://youtu.be/p7F5b1oJmWM) | |
+| 10 | SVM 3 | [PDF](https://github.com/sejongresearch/2020.MachineLearning/blob/master/LectureNote/10%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_SVM(%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8)_%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8.pdf), [실습1](https://colab.research.google.com/drive/1jP1EwftBnqxvMZ4Mw97M74xiQT4sYNGy?usp=sharing), <br> [실습2](https://colab.research.google.com/drive/1mUvDQwcRCOJ0QA9KOTUh9ncY_hla0PLa?usp=sharing), [실습3](https://colab.research.google.com/drive/1xd-FM4wj_OizY27GajkytTZo09SAaaqz?usp=sharing)  | 2020.11.08 | [Youtube](https://youtu.be/rZ-xkQoBDFQ) | |
+| 11 | 프로젝트 가이드라인 |   | 2020.11.13 | 예정 | |
+| 11 | PCA |   | 2020.11.13 | 예정 | |
 
 ## 수강신청 QnA
 - [인공지능 미이수자 입니다. 기계학습 수강신청 가능한가요?](https://github.com/sejongresearch/2020.MachineLearning/issues/1)
