@@ -42,7 +42,7 @@
 | 11 | 군집화 1 | [PDF](https://github.com/sejongresearch/2020.MachineLearning/blob/master/LectureNote/11%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%80%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%B5%E1%86%B8%E1%84%92%E1%85%AA_%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB.pdf)  | 2020.11.11 | [Youtube](https://youtu.be/gGX9YwRcvQc) | |
 | 11 | 군집화 2 |   | 2020.11.11 | [Youtube](https://youtu.be/Q93HFGHRLGg) | |
 | 11 | 군집화 3 |   | 2020.11.11 | [Youtube](https://youtu.be/rRAEnrZRDF8) | |
-|  | 프로젝트 설명 |   | 2020.11.14 | [Youtube](https://youtu.be/TULPakMdD0o) | |
+|  | 프로젝트 설명 | [플젝1](https://www.kaggle.com/c/2020mltermprojectbovw/overview)  | 2020.11.14 | [Youtube](https://youtu.be/TULPakMdD0o) | |
 
 ## 수강신청 QnA
 - [인공지능 미이수자 입니다. 기계학습 수강신청 가능한가요?](https://github.com/sejongresearch/2020.MachineLearning/issues/1)
