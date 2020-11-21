@@ -45,7 +45,7 @@
 |  | 프로젝트 설명 | [플젝1](https://www.kaggle.com/c/2020mltermprojectbovw/overview)  | 2020.11.14 | [Youtube](https://youtu.be/TULPakMdD0o) | |
 | 12 | 차원축소 1 | [PDF](https://github.com/sejongresearch/2020.MachineLearning/blob/master/LectureNote/12%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%8E%E1%85%A1%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%89%E1%85%A9_%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB.pdf)  | 2020.11.20 | [Youtube](https://youtu.be/M_0Lcw2yAM0) | |
 | 12 | 차원축소 2 |   | 2020.11.20 | [Youtube](https://youtu.be/CnQJ6x5sSrk) | |
-|  | 프로젝트 설명 | [플젝2]()  |  |  | |
+|  | 프로젝트 설명 | [플젝2](https://www.kaggle.com/c/2020mltermprojecthar/overview)  |  |  | |
 
 ## 수강신청 QnA
 - [인공지능 미이수자 입니다. 기계학습 수강신청 가능한가요?](https://github.com/sejongresearch/2020.MachineLearning/issues/1)
