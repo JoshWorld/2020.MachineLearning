@@ -52,6 +52,9 @@
 |  | 프로젝트 3 | [플젝3](https://www.kaggle.com/c/2020mltermproject3dclassification/leaderboard)  |  |  | |
 | 14 | 교차검증&앙상블 1 | [PDF](https://github.com/sejongresearch/2020.MachineLearning/blob/master/LectureNote/14%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%80%E1%85%AD%E1%84%8E%E1%85%A1%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%B3%E1%86%BC.pdf)  | 2020.12.04 | [Youtube](https://youtu.be/P8-1F5Z1050) | |
 | 14 | 교차검증&앙상블 2 | [실습1](https://colab.research.google.com/drive/1F8BvSq-LUKx4t_RkK79okfe2WtBwsoNY?usp=sharing), [실습2](https://colab.research.google.com/drive/1jub7T2dnhivZfepcufphefp3AhPaZF7F?usp=sharing), <br> [실습3](https://colab.research.google.com/drive/1b0q3d9-EDrOVLWav3Z2HED_RuETKMNRu?usp=sharing), [실습4](https://colab.research.google.com/drive/1b_1_lUBGE9A0USjlr30V819DMO9NB2q1?usp=sharing)  | 2020.12.04 | [Youtube](https://youtu.be/_LIVtcBQyfU) | |
+| 15 | 텀프로젝트1 해설영상 |   | 2020.12.11 | [Youtube]() | |
+| 15 | 텀프로젝트2 해설영상 |   | 2020.12.11 | [Youtube]() | |
+| 15 | 텀프로젝트3 해설영상 |   | 2020.12.11 | [Youtube]() | |
 
 
 
