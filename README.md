@@ -42,19 +42,18 @@
 | 11 | 군집화 1 | [PDF](https://github.com/sejongresearch/2020.MachineLearning/blob/master/LectureNote/11%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%80%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%B5%E1%86%B8%E1%84%92%E1%85%AA_%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB.pdf)  | 2020.11.11 | [Youtube](https://youtu.be/gGX9YwRcvQc) | |
 | 11 | 군집화 2 |   | 2020.11.11 | [Youtube](https://youtu.be/Q93HFGHRLGg) | |
 | 11 | 군집화 3 |   | 2020.11.11 | [Youtube](https://youtu.be/rRAEnrZRDF8) | |
-|  | 프로젝트 1 | [플젝1](https://www.kaggle.com/c/2020mltermprojectbovw/overview)  | 2020.11.14 | [Youtube](https://youtu.be/TULPakMdD0o) | |
+| 11 | 텀프로젝트 설명서 |    | 2020.11.14 | [Youtube](https://youtu.be/TULPakMdD0o) | [플젝1](https://www.kaggle.com/c/2020mltermprojectbovw/overview), [플젝2](https://www.kaggle.com/t/17abfb818a974c619a6adf5224ec9a9e), [플젝3](https://www.kaggle.com/c/2020mltermproject3dclassification/leaderboard) |
 | 12 | 차원축소 1 | [PDF](https://github.com/sejongresearch/2020.MachineLearning/blob/master/LectureNote/12%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%8E%E1%85%A1%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%89%E1%85%A9_%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB.pdf)  | 2020.11.20 | [Youtube](https://youtu.be/M_0Lcw2yAM0) | |
 | 12 | 차원축소 2 |   | 2020.11.20 | [Youtube](https://youtu.be/CnQJ6x5sSrk) | |
 | 12 | 차원축소 3 | [실습](https://github.com/sejongresearch/2020.MachineLearning/blob/master/Labs/08%E1%84%8C%E1%85%A1%E1%86%BC_dimensional_reduction.ipynb)  | 2020.11.20 | [Youtube](https://youtu.be/vkWX4SSDI94) | |
-|  | 프로젝트 2 | [플젝2](https://www.kaggle.com/t/17abfb818a974c619a6adf5224ec9a9e)  |  |  | |
 | 13 | 외부 영상 1 |   | 2020.11.27 | [Youtube](https://youtu.be/s9iiupx-mSs) | |
 | 13 | 외부 영상 2 |   | 2020.11.27 | [Youtube](https://youtu.be/Tjz5M75Uw5w) | |
-|  | 프로젝트 3 | [플젝3](https://www.kaggle.com/c/2020mltermproject3dclassification/leaderboard)  |  |  | |
 | 14 | 교차검증&앙상블 1 | [PDF](https://github.com/sejongresearch/2020.MachineLearning/blob/master/LectureNote/14%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%80%E1%85%AD%E1%84%8E%E1%85%A1%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%B3%E1%86%BC.pdf)  | 2020.12.04 | [Youtube](https://youtu.be/P8-1F5Z1050) | |
 | 14 | 교차검증&앙상블 2 | [실습1](https://colab.research.google.com/drive/1F8BvSq-LUKx4t_RkK79okfe2WtBwsoNY?usp=sharing), [실습2](https://colab.research.google.com/drive/1jub7T2dnhivZfepcufphefp3AhPaZF7F?usp=sharing), <br> [실습3](https://colab.research.google.com/drive/1b0q3d9-EDrOVLWav3Z2HED_RuETKMNRu?usp=sharing), [실습4](https://colab.research.google.com/drive/1b_1_lUBGE9A0USjlr30V819DMO9NB2q1?usp=sharing)  | 2020.12.04 | [Youtube](https://youtu.be/_LIVtcBQyfU) | |
-| 15 | 텀프로젝트1 해설영상 |   | 2020.12.11 | [Youtube]() | |
-| 15 | 텀프로젝트2 해설영상 |   | 2020.12.11 | [Youtube]() | |
-| 15 | 텀프로젝트3 해설영상 |   | 2020.12.11 | [Youtube]() | |
+| 15 | 텀프로젝트1 해설영상 |   | 2020.12.11 | [Youtube](https://youtu.be/pHX7E0Rwgtc) | |
+| 15 | 텀프로젝트2 해설영상 |   | 2020.12.11 | [Youtube](https://youtu.be/vNUFmq7fh2w) | |
+| 15 | 텀프로젝트3 해설영상 |   | 2020.12.11 | [Youtube](https://youtu.be/V0kuxScDT7M) | |
+| 16 | 기말고사 |   | 2020.12.18 |  | |
 
 
 
