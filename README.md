@@ -54,7 +54,7 @@
 | 15 | 텀프로젝트1 해설영상 |   | 2020.12.11 | [Youtube](https://youtu.be/pHX7E0Rwgtc) | |
 | 15 | 텀프로젝트2 해설영상 |   | 2020.12.11 | [Youtube](https://youtu.be/vNUFmq7fh2w) | |
 | 15 | 텀프로젝트3 해설영상 |   | 2020.12.11 | [Youtube](https://youtu.be/V0kuxScDT7M) | |
-| 16 | 기말고사 |   | 2020.12.18 |  | |
+| 16 | 기말고사 | [](), [실습문제](https://github.com/sejongresearch/2020.MachineLearning/issues/7)  | 2020.12.18 |  |  |
 
 
 
